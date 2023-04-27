@@ -1,0 +1,45 @@
+/* აქ იწყება header */
+
+header {
+    width: 1366px;
+    background-color: #2A9D8F;
+    margin-inline: 0px auto;
+    padding: 38px 130px;
+
+}
+
+.header_logo {
+    width: 46px;
+    vertical-align: middle;
+}
+
+
+nav {
+    display: inline-block;
+    vertical-align: middle;
+    margin-inline: 320px;
+}
+
+.header_list {
+    font-family: 'Nerko One', cursive;
+    font-size: 20px;
+    font-weight: 400;
+    display: inline-block;
+}
+
+.header_list a {
+    color: #FFFFFF;
+
+}
+
+.middle_list {
+    margin-inline: 51px;
+}
+
+button {
+    font-size: 15px;
+    font-weight: 600;
+    color: #2A9D8F;
+    font-family: 'Poppins', sans-serif;
+    padding: 8px 16px;
+}
