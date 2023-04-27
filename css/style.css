@@ -43,3 +43,41 @@ button {
     font-family: 'Poppins', sans-serif;
     padding: 8px 16px;
 }
+
+/* აქ იწყება პირველი section */
+
+.section_first {
+    width: 1366px;
+
+}
+
+
+.section_first article {
+    width: 670px;
+    margin-left: 350px;
+}
+
+.title_first {
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    font-weight: 500;
+    color: #4D4D4D;
+    margin-top: 150px;
+    margin-left: 150px;
+    vertical-align: middle;
+}
+
+
+
+.section_first p {
+    font-family: 'Nerko One', cursive;
+    font-size: 20px;
+    font-weight: 400;
+    color: #656565;
+    vertical-align: middle;
+}
+
+.text_first {
+    margin-top: 60px;
+    margin-bottom: 52px;
+}
