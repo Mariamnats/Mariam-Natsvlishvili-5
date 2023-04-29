@@ -3,7 +3,7 @@
 header {
     width: 1366px;
     background-color: #2A9D8F;
-    margin-inline: 0px auto;
+    margin-inline: auto;
     padding: 38px 130px;
 
 }
@@ -45,11 +45,6 @@ button {
 }
 
 /* აქ იწყება პირველი section */
-
-.section_first {
-    width: 1366px;
-
-}
 
 
 .section_first article {
